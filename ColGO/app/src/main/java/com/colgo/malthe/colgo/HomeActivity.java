@@ -16,7 +16,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.colgo.malthe.R;
+import com.colgo.malthe.colgo.R;
 
 
 public class HomeActivity extends AppCompatActivity {
